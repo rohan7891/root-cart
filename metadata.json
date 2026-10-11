@@ -1,0 +1,6 @@
+{
+  "name": "Root Cart",
+  "description": "Production-grade Android & Web Video Editor, Professional Photo Editor, AI Creative Suite, Configurable Ad Monetization & Secure Admin Console with English and Bengali localization.",
+  "requestFramePermissions": ["microphone", "camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
